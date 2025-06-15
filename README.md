@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm gdm85</h1>
-<h3 align="center">Crafting code :scroll: Sparking automation :skier:</h3>
+<h3 align="center">Creating solutions :bulb: Sparking automation :zap:</h3>
 
-- 🔭 I’m currently working on **DDD microservices**
+- 🔭 I’m currently working on **Go APIs** and **Metadata** for distributed databases
 
 - 👯 I’m looking to collaborate on **cool open source projects**
 
 - 📝 I sometimes write articles on [https://medium.com/@gdm85](https://medium.com/@gdm85)
 
-- 💬 Ask me about **retro computing**
+- 💬 Ask me about **retro computing** and building **MCP**s :robot:
 
-- ⚡ Fun fact **Electronic music hobbyist**
+- ⚡ Fun fact **Electronics hobbyist**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdm85" alt="gdm85" /></a> </p>
 
